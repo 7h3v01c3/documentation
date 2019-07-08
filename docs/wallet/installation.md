@@ -1,6 +1,7 @@
 title: Blocknet Wallet Installation Guide
 description: This guide explains how to install your Blocknet wallet on each operating system to securely manage your BLOCK through a wallet you own.
 
+[![https://youtu.be/r4Xs0RrbAOw](http://img.youtube.com/vi/r4Xs0RrbAOw/0.jpg)](http://www.youtube.com/watch?v=r4Xs0RrbAOw "Blocknet Wallet Installation - Windows")
 
 # Wallet Installation
 Installing the [Blocknet wallet](https://github.com/blocknetdx/blocknet/releases) is a simple process. Below are step-by-step instructions for how to install the wallet on each operating system (OS). If you already have the Blocknet wallet installed and are updating, see the updating guide. 
